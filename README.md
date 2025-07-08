@@ -8,13 +8,43 @@ The app emphasizes convenience and minimalism. By selecting practice sets that p
 
 **Note:** This repository outlines the functionality of Tonecast. The full codebase is private, as we intend to bring the app to market in the future.
 
+## Index
+
+- [Visual Preview (Early Concepts / In Progress)](#visual-preview-early-concepts--in-progress)
+- [Feature Overview](#feature-overview)
+- [Features Detailed](#features-detailed)
+  - [Practice Set Discovery](#practice-set-discovery)
+  - [Practice Set Playback](#practice-set-playback)
+  - [Musical Structures](#musical-structures)
+  - [Local Storage Backend](#local-storage-backend)
+  - [Clean Architecture](#clean-architecture)
+  - [Tagging System](#tagging-system)
+  - [Audio Engine](#audio-engine)
+- [Planned Features / Future Releases](#planned-features--future-releases)
+  - [CarPlay Support](#carplay-support)
+  - [Siri Integration](#siri-integration)
+  - [Custom Practice Sets](#custom-practice-sets)
+  - [Variable Musical Notation](#variable-musical-notation)
 
 ## Visual Preview (Early Concepts / In Progress)
 Note that the video below is from a work in progress version of the applciation. Many things are still subject to change.
 
 ![Video Demo](assets/Tonecast-Work-In-Progress-Demo.mp3)
 
-## Features
+## Feature Overview
+
+| Area                  | Key Features                                                                 |
+|-----------------------|------------------------------------------------------------------------------|
+| Practice Discovery    | Browse and filter sets, fuzzy search, view details, seamless navigation      |
+| Playback              | Start/stop, random examples, answer reveal, multiple playback modes          |
+| Musical Structures    | Supports intervals, chords, scales, and modes                                |
+| Playback Modes        | Ascending, Descending, Harmonic                                              |
+| Storage               | Offline-first, NoSQL backend, ORM structure definitions                      |
+| Architecture          | Flutter + Dart, BLoC state management, modular monorepo                      |
+| Tag System            | Organize/filter sets and structures by tags                                  |
+| Audio Engine          | Real-time playback via MIDI and generated tts          
+
+## Features Detailed
 
 ### Practice Set Discovery
 
