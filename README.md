@@ -4,9 +4,9 @@
 
 **Tonecast** is a hands-free ear training app designed to help you improve your relative pitch recognition through audio-only practice sets.
 
-The app emphasizes convenience and minimalism. By selecting practice sets that play automatically, you can train your ear while engaging in other activities like cooking, driving, or doing chores—no need to interact with your phone. Tonecast respects your privacy: it collects no user data and currently does not track progress or usage statistics.
+The app emphasizes convenience and minimalism. By selecting practice sets that play automatically (like music or a podcast on spotify), you can train your ear while engaging in other activities like cooking, driving, or doing chores. There is no need to interact with your phone once the exercise has started. Tonecast respects your privacy: it collects no user data and currently does not track progress or usage statistics.
 
-**Note:** This repository outlines the functionality of Tonecast. The full codebase is private, as we intend to bring the app to market in the future.
+**Note:** This repository outlines the functionality of Tonecast as well as gives a preview of the WIP. The full codebase is private, as we intend to bring the app to market in the future.
 
 ## Index
 
