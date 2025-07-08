@@ -73,9 +73,9 @@ Note that the video below is from a work in progress version of the applciation.
 ### Musical Structures
 
 - [X] Support for a wide range of musical concepts:
-  - [X] Intervals (e.g., M3, P5, Tritone, Compound)  
+  - [X] Intervals (e.g., M3, P5, Tritone)  
   - [X] Chords (e.g., Major, Minor, Diminished, 7ths, Extended)  
-  - [X] Scales (e.g., Major, Minor, Blues, Modal, Exotic)  
+  - [X] Scales (e.g., Major, Minor, Blues)  
 
 ### Local Storage Backend
 
@@ -91,7 +91,7 @@ Note that the video below is from a work in progress version of the applciation.
 
 ### Tagging System
 
-- [X] Tags for organizing practice sets and structures (e.g., “triad”, “scale”, “melodic”)  
+- [X] Tags for organizing practice sets and structures (e.g., “triad”, “scale”, “chord”)  
 - [X] Useful for filtering and categorizing UI elements  
 
 ### Audio Engine
@@ -117,7 +117,7 @@ Note that the video below is from a work in progress version of the applciation.
 
 ### Custom Practice Sets
 
-- [ ] Users can create their own sets  
+- [ ] Users can create their own practice sets  
 - [ ] Name custom sets and choose included musical structures  
 - [ ] Custom sets are filterable and appear alongside standard sets  
 
