@@ -1,6 +1,10 @@
 # Tonecast - Handsfree Ear Training
 
-![Video Demo](assets/MVP_Demo.mp4)
+<a href="https://youtube.com/shorts/Vwz9bMXZt5A">
+  <img src="assets/mvp_demo.gif" alt="MVP Demo" width="200"/>
+</a>
+
+[Watch the demo with audio on Youtube](https://youtube.com/shorts/Vwz9bMXZt5A)
 
 **Tonecast** is a hands-free ear training app designed to help you improve your relative pitch recognition through audio-only practice sets.
 
