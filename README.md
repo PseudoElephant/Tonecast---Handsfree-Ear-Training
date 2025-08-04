@@ -1,6 +1,6 @@
 # Tonecast - Handsfree Ear Training
 
-<img src="assets/mvp_demo.gif" alt="MVP Demo" width="200"/>
+<img src="assets/mvp_demo.gif" alt="MVP Demo"/>
 
 [Watch the demo with audio on Youtube](https://youtube.com/shorts/Vwz9bMXZt5A)
 
